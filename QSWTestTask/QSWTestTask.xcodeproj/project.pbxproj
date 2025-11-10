@@ -42,16 +42,6 @@
 			path = QSWTestTask;
 			sourceTree = "<group>";
 		};
-		FBAA18F62E85473000187A51 /* QSWTestTaskTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = QSWTestTaskTests;
-			sourceTree = "<group>";
-		};
-		FBAA19002E85473100187A51 /* QSWTestTaskUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = QSWTestTaskUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,8 +77,6 @@
 			isa = PBXGroup;
 			children = (
 				FBAA18E82E85472F00187A51 /* QSWTestTask */,
-				FBAA18F62E85473000187A51 /* QSWTestTaskTests */,
-				FBAA19002E85473100187A51 /* QSWTestTaskUITests */,
 				FBAA18E72E85472F00187A51 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -145,9 +133,6 @@
 			dependencies = (
 				FBAA18F52E85473000187A51 /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				FBAA18F62E85473000187A51 /* QSWTestTaskTests */,
-			);
 			name = QSWTestTaskTests;
 			packageProductDependencies = (
 			);
@@ -167,9 +152,6 @@
 			);
 			dependencies = (
 				FBAA18FF2E85473100187A51 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				FBAA19002E85473100187A51 /* QSWTestTaskUITests */,
 			);
 			name = QSWTestTaskUITests;
 			packageProductDependencies = (
