@@ -79,8 +79,9 @@ A **generation script** is included to produce the initial JSON database file (`
 QSWTestTask/Resources/DBInitial.json
 To regenerate manually:
 ```bash
-swift run GenerateDB
+python3 genetrate_db_json.py
 ```
+Add number of nodes up to 1 million. 
 
 This will generate a file that can be used to overwrite the existing file with a new generated dataset.
 
