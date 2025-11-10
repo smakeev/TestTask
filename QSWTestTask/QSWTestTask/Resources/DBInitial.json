@@ -1,0 +1,840 @@
+[
+  {
+    "type": "node",
+    "id": "6f8ed736-2671-46f4-b86e-f76114afa0bb",
+    "parentId": null,
+    "value": "Root",
+    "isDeleted": false,
+    "children": [
+      {
+        "type": "node",
+        "id": "18a98717-2d1f-4cf0-a491-d8f89896cc23",
+        "parentId": "6f8ed736-2671-46f4-b86e-f76114afa0bb",
+        "value": "Node 96728feb",
+        "isDeleted": false,
+        "children": []
+      },
+      {
+        "type": "node",
+        "id": "125419bb-78d2-412d-913b-faacb14a8693",
+        "parentId": "6f8ed736-2671-46f4-b86e-f76114afa0bb",
+        "value": "Node cc804c1b",
+        "isDeleted": false,
+        "children": [
+          {
+            "type": "node",
+            "id": "1f7bccc2-45ea-4a74-8a7d-d22aeac2aa65",
+            "parentId": "125419bb-78d2-412d-913b-faacb14a8693",
+            "value": "Node 986334df",
+            "isDeleted": false,
+            "children": []
+          },
+          {
+            "type": "node",
+            "id": "9f5bb788-94e9-4ae0-b3ce-98609e6b3f15",
+            "parentId": "125419bb-78d2-412d-913b-faacb14a8693",
+            "value": "Node 100d1126",
+            "isDeleted": false,
+            "children": [
+              {
+                "type": "node",
+                "id": "06f0d585-7c7b-4db6-8f7c-329c371f84c5",
+                "parentId": "9f5bb788-94e9-4ae0-b3ce-98609e6b3f15",
+                "value": "Node e8abb0f7",
+                "isDeleted": false,
+                "children": [
+                  {
+                    "type": "node",
+                    "id": "f185fa7e-458b-41c1-a920-52c7de5358c4",
+                    "parentId": "06f0d585-7c7b-4db6-8f7c-329c371f84c5",
+                    "value": "Node 041f7d94",
+                    "isDeleted": false,
+                    "children": [
+                      {
+                        "type": "node",
+                        "id": "0bbfb167-a833-4fd5-8a3a-be2a9900ef4f",
+                        "parentId": "f185fa7e-458b-41c1-a920-52c7de5358c4",
+                        "value": "Node 05ba2c38",
+                        "isDeleted": false,
+                        "children": [
+                          {
+                            "type": "node",
+                            "id": "ae9657b5-c722-429d-9230-a819792c8290",
+                            "parentId": "0bbfb167-a833-4fd5-8a3a-be2a9900ef4f",
+                            "value": "Node 7d2b1cb5",
+                            "isDeleted": false,
+                            "children": [
+                              {
+                                "type": "node",
+                                "id": "2355594c-56c3-4926-9dbf-b00ae12308df",
+                                "parentId": "ae9657b5-c722-429d-9230-a819792c8290",
+                                "value": "Node 4bee5e2a",
+                                "isDeleted": false,
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "type": "node",
+                            "id": "781de37a-dfe7-4a9a-9004-996de784adfe",
+                            "parentId": "0bbfb167-a833-4fd5-8a3a-be2a9900ef4f",
+                            "value": "Node cb97819c",
+                            "isDeleted": false,
+                            "children": []
+                          },
+                          {
+                            "type": "node",
+                            "id": "448fd5be-45de-4f49-9bf7-92d2de5953fc",
+                            "parentId": "0bbfb167-a833-4fd5-8a3a-be2a9900ef4f",
+                            "value": "Node d850deb1",
+                            "isDeleted": false,
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "type": "node",
+                        "id": "52d5bdaf-1a1b-4b88-a6aa-af32c932ec86",
+                        "parentId": "f185fa7e-458b-41c1-a920-52c7de5358c4",
+                        "value": "Node d89f1b3f",
+                        "isDeleted": false,
+                        "children": []
+                      },
+                      {
+                        "type": "node",
+                        "id": "784db8e6-4342-4405-a078-08684cc0fb08",
+                        "parentId": "f185fa7e-458b-41c1-a920-52c7de5358c4",
+                        "value": "Node d28d4bbf",
+                        "isDeleted": false,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "type": "node",
+                    "id": "1f00882e-a4cc-4fee-ad90-2b58602bc024",
+                    "parentId": "06f0d585-7c7b-4db6-8f7c-329c371f84c5",
+                    "value": "Node 68a25f25",
+                    "isDeleted": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "node",
+                "id": "ad43e296-fa73-4d5f-a5fe-0096a434206b",
+                "parentId": "9f5bb788-94e9-4ae0-b3ce-98609e6b3f15",
+                "value": "Node 4422c267",
+                "isDeleted": false,
+                "children": [
+                  {
+                    "type": "node",
+                    "id": "7b0126d8-41aa-4d15-853b-0dc66071585a",
+                    "parentId": "ad43e296-fa73-4d5f-a5fe-0096a434206b",
+                    "value": "Node 0c77b20f",
+                    "isDeleted": false,
+                    "children": []
+                  },
+                  {
+                    "type": "node",
+                    "id": "4aa21a9d-4a4a-4e91-a54c-847b7c32420d",
+                    "parentId": "ad43e296-fa73-4d5f-a5fe-0096a434206b",
+                    "value": "Node 30f5d22c",
+                    "isDeleted": false,
+                    "children": []
+                  },
+                  {
+                    "type": "node",
+                    "id": "2c0ca556-3263-4862-a63a-341858afbf5c",
+                    "parentId": "ad43e296-fa73-4d5f-a5fe-0096a434206b",
+                    "value": "Node e1c361c5",
+                    "isDeleted": false,
+                    "children": [
+                      {
+                        "type": "node",
+                        "id": "6c542153-4a7e-4088-9764-8e7b19198d24",
+                        "parentId": "2c0ca556-3263-4862-a63a-341858afbf5c",
+                        "value": "Node 227e07d7",
+                        "isDeleted": false,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "node",
+                "id": "b253a4ab-49f4-4d57-80a7-29117d325d1e",
+                "parentId": "9f5bb788-94e9-4ae0-b3ce-98609e6b3f15",
+                "value": "Node bd7356be",
+                "isDeleted": false,
+                "children": [
+                  {
+                    "type": "node",
+                    "id": "60bdb64f-cb10-47d7-b44b-13cb286b12f6",
+                    "parentId": "b253a4ab-49f4-4d57-80a7-29117d325d1e",
+                    "value": "Node b2beeba9",
+                    "isDeleted": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "node",
+                "id": "8dd1eec5-1be7-42bb-9c6d-fd73292f5c1a",
+                "parentId": "9f5bb788-94e9-4ae0-b3ce-98609e6b3f15",
+                "value": "Node 90dc3336",
+                "isDeleted": false,
+                "children": [
+                  {
+                    "type": "node",
+                    "id": "7e5fbe55-01e2-4429-b462-86127acd1ecb",
+                    "parentId": "8dd1eec5-1be7-42bb-9c6d-fd73292f5c1a",
+                    "value": "Node dc20e2a8",
+                    "isDeleted": false,
+                    "children": [
+                      {
+                        "type": "node",
+                        "id": "1dc7262e-a45a-48d6-8fbf-a01b48e331c4",
+                        "parentId": "7e5fbe55-01e2-4429-b462-86127acd1ecb",
+                        "value": "Node b1f9cc3c",
+                        "isDeleted": false,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "node",
+                "id": "18b6dbcb-2b4b-470e-8556-7733387f25e2",
+                "parentId": "9f5bb788-94e9-4ae0-b3ce-98609e6b3f15",
+                "value": "Node 191b1260",
+                "isDeleted": false,
+                "children": [
+                  {
+                    "type": "node",
+                    "id": "2641aa8f-ee6e-41f9-be78-d165503cc74b",
+                    "parentId": "18b6dbcb-2b4b-470e-8556-7733387f25e2",
+                    "value": "Node 54207a65",
+                    "isDeleted": false,
+                    "children": [
+                      {
+                        "type": "node",
+                        "id": "e7daab26-32ee-4464-8ba6-782216ee1d53",
+                        "parentId": "2641aa8f-ee6e-41f9-be78-d165503cc74b",
+                        "value": "Node bce28ec2",
+                        "isDeleted": false,
+                        "children": [
+                          {
+                            "type": "node",
+                            "id": "c854c6b8-5e8b-4a58-8343-d1111bfcb7c5",
+                            "parentId": "e7daab26-32ee-4464-8ba6-782216ee1d53",
+                            "value": "Node 1f9a889a",
+                            "isDeleted": false,
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "type": "node",
+                        "id": "12d1256a-0e2d-4eae-9081-06831ba3b960",
+                        "parentId": "2641aa8f-ee6e-41f9-be78-d165503cc74b",
+                        "value": "Node d430b2b2",
+                        "isDeleted": false,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "node",
+                "id": "f67dcc8a-9231-43b6-af3a-52936e332cc0",
+                "parentId": "9f5bb788-94e9-4ae0-b3ce-98609e6b3f15",
+                "value": "Node 7abad23d",
+                "isDeleted": false,
+                "children": [
+                  {
+                    "type": "node",
+                    "id": "2166eff1-8254-4d56-b824-eb993dc0d75a",
+                    "parentId": "f67dcc8a-9231-43b6-af3a-52936e332cc0",
+                    "value": "Node 7d5e07d6",
+                    "isDeleted": false,
+                    "children": []
+                  },
+                  {
+                    "type": "node",
+                    "id": "03d5ff23-1918-4657-a4a8-639a5023883d",
+                    "parentId": "f67dcc8a-9231-43b6-af3a-52936e332cc0",
+                    "value": "Node 13266f59",
+                    "isDeleted": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "node",
+                "id": "0983fa6a-6aca-44e3-b142-aa6d71cd7a5f",
+                "parentId": "9f5bb788-94e9-4ae0-b3ce-98609e6b3f15",
+                "value": "Node a8043dfb",
+                "isDeleted": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "node",
+            "id": "1df907d3-128c-462c-b8d7-2edef90fdd7e",
+            "parentId": "125419bb-78d2-412d-913b-faacb14a8693",
+            "value": "Node 6cfec3f9",
+            "isDeleted": false,
+            "children": [
+              {
+                "type": "node",
+                "id": "f48ab47d-80d5-475d-a980-39feaed5e12b",
+                "parentId": "1df907d3-128c-462c-b8d7-2edef90fdd7e",
+                "value": "Node 5cc307aa",
+                "isDeleted": false,
+                "children": [
+                  {
+                    "type": "node",
+                    "id": "6af6bdcf-a7e6-4a7d-bf36-eadc46c17800",
+                    "parentId": "f48ab47d-80d5-475d-a980-39feaed5e12b",
+                    "value": "Node a9ef5927",
+                    "isDeleted": false,
+                    "children": []
+                  },
+                  {
+                    "type": "node",
+                    "id": "186f68ae-03a7-4bb3-a37f-96b7058b2325",
+                    "parentId": "f48ab47d-80d5-475d-a980-39feaed5e12b",
+                    "value": "Node 34d77f6a",
+                    "isDeleted": false,
+                    "children": []
+                  },
+                  {
+                    "type": "node",
+                    "id": "d7e36442-9f31-4a46-8642-bfa85b28fbce",
+                    "parentId": "f48ab47d-80d5-475d-a980-39feaed5e12b",
+                    "value": "Node 22401405",
+                    "isDeleted": false,
+                    "children": [
+                      {
+                        "type": "node",
+                        "id": "68f1bde0-825c-4f98-a20b-ea62158e7932",
+                        "parentId": "d7e36442-9f31-4a46-8642-bfa85b28fbce",
+                        "value": "Node 2e31e3f4",
+                        "isDeleted": false,
+                        "children": [
+                          {
+                            "type": "node",
+                            "id": "923a892e-0ddb-4aa8-a888-c9b42f04405c",
+                            "parentId": "68f1bde0-825c-4f98-a20b-ea62158e7932",
+                            "value": "Node 31203cb0",
+                            "isDeleted": false,
+                            "children": [
+                              {
+                                "type": "node",
+                                "id": "00c4c861-06d7-4b8a-b56b-ba8acaf70297",
+                                "parentId": "923a892e-0ddb-4aa8-a888-c9b42f04405c",
+                                "value": "Node 6afddbf2",
+                                "isDeleted": false,
+                                "children": []
+                              },
+                              {
+                                "type": "node",
+                                "id": "1f28fed0-5f24-4282-ad34-e890b8658087",
+                                "parentId": "923a892e-0ddb-4aa8-a888-c9b42f04405c",
+                                "value": "Node 181c0bd8",
+                                "isDeleted": false,
+                                "children": []
+                              },
+                              {
+                                "type": "node",
+                                "id": "5af2bd7b-a480-47ac-8f36-5d2cd4d73f58",
+                                "parentId": "923a892e-0ddb-4aa8-a888-c9b42f04405c",
+                                "value": "Node 526c1863",
+                                "isDeleted": false,
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "type": "node",
+                            "id": "4485d9f9-799a-4b18-bd52-a08b06c48ba7",
+                            "parentId": "68f1bde0-825c-4f98-a20b-ea62158e7932",
+                            "value": "Node 6365b532",
+                            "isDeleted": false,
+                            "children": []
+                          },
+                          {
+                            "type": "node",
+                            "id": "218599f3-89de-4cc9-8719-92aee57ab117",
+                            "parentId": "68f1bde0-825c-4f98-a20b-ea62158e7932",
+                            "value": "Node 00eb4ee5",
+                            "isDeleted": false,
+                            "children": []
+                          },
+                          {
+                            "type": "node",
+                            "id": "bf1031a8-fb6b-4f2e-85c3-890e1866a302",
+                            "parentId": "68f1bde0-825c-4f98-a20b-ea62158e7932",
+                            "value": "Node f3332fe3",
+                            "isDeleted": false,
+                            "children": []
+                          },
+                          {
+                            "type": "node",
+                            "id": "432ea49a-dba0-4c57-b6a8-529209ec634e",
+                            "parentId": "68f1bde0-825c-4f98-a20b-ea62158e7932",
+                            "value": "Node 21e5fad7",
+                            "isDeleted": false,
+                            "children": [
+                              {
+                                "type": "node",
+                                "id": "a3674ccf-1c42-4b2a-9521-63d2f972c19d",
+                                "parentId": "432ea49a-dba0-4c57-b6a8-529209ec634e",
+                                "value": "Node 37ea76af",
+                                "isDeleted": false,
+                                "children": [
+                                  {
+                                    "type": "node",
+                                    "id": "ffcee92f-d0a6-46fc-bdab-d5a0a641db3e",
+                                    "parentId": "a3674ccf-1c42-4b2a-9521-63d2f972c19d",
+                                    "value": "Node 90304bd7",
+                                    "isDeleted": false,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "node",
+                        "id": "736e7dc9-82f7-44b7-96c5-9fee5880ff7b",
+                        "parentId": "d7e36442-9f31-4a46-8642-bfa85b28fbce",
+                        "value": "Node 82a2ed2a",
+                        "isDeleted": false,
+                        "children": []
+                      },
+                      {
+                        "type": "node",
+                        "id": "f12eb569-e2ec-4cf9-9b40-0066e4ae4956",
+                        "parentId": "d7e36442-9f31-4a46-8642-bfa85b28fbce",
+                        "value": "Node 4f0766cf",
+                        "isDeleted": false,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "node",
+                "id": "c2c16180-0c1e-4770-ac65-6b02e894f0f9",
+                "parentId": "1df907d3-128c-462c-b8d7-2edef90fdd7e",
+                "value": "Node 963de762",
+                "isDeleted": false,
+                "children": []
+              },
+              {
+                "type": "node",
+                "id": "d791dbc1-e84f-4d26-8da1-637e6798382c",
+                "parentId": "1df907d3-128c-462c-b8d7-2edef90fdd7e",
+                "value": "Node 8efed5f2",
+                "isDeleted": false,
+                "children": []
+              },
+              {
+                "type": "node",
+                "id": "1e4d90c2-8a9b-446a-b8ae-5e2719f10e3f",
+                "parentId": "1df907d3-128c-462c-b8d7-2edef90fdd7e",
+                "value": "Node 1378d9ec",
+                "isDeleted": false,
+                "children": [
+                  {
+                    "type": "node",
+                    "id": "5aee6e72-92de-434b-bfe9-006f8ca48d38",
+                    "parentId": "1e4d90c2-8a9b-446a-b8ae-5e2719f10e3f",
+                    "value": "Node 225ec23e",
+                    "isDeleted": false,
+                    "children": []
+                  },
+                  {
+                    "type": "node",
+                    "id": "9eba175f-d4d0-49f7-ab91-e5057b76025a",
+                    "parentId": "1e4d90c2-8a9b-446a-b8ae-5e2719f10e3f",
+                    "value": "Node 6055c7cc",
+                    "isDeleted": false,
+                    "children": []
+                  },
+                  {
+                    "type": "node",
+                    "id": "847fb944-4eae-4fa0-aa97-a7a07faad217",
+                    "parentId": "1e4d90c2-8a9b-446a-b8ae-5e2719f10e3f",
+                    "value": "Node f6a21480",
+                    "isDeleted": false,
+                    "children": []
+                  },
+                  {
+                    "type": "node",
+                    "id": "72b65ac2-efb4-40a2-a38b-059c7fadb55c",
+                    "parentId": "1e4d90c2-8a9b-446a-b8ae-5e2719f10e3f",
+                    "value": "Node fe85d695",
+                    "isDeleted": false,
+                    "children": []
+                  },
+                  {
+                    "type": "node",
+                    "id": "ff29634b-8f58-434f-bf41-8ea1ef67d767",
+                    "parentId": "1e4d90c2-8a9b-446a-b8ae-5e2719f10e3f",
+                    "value": "Node 9a452b91",
+                    "isDeleted": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "node",
+                "id": "c83629bd-36fd-45d6-9424-94640d51bc05",
+                "parentId": "1df907d3-128c-462c-b8d7-2edef90fdd7e",
+                "value": "Node 4187eb02",
+                "isDeleted": false,
+                "children": []
+              },
+              {
+                "type": "node",
+                "id": "e6e9f0a8-6772-40d1-8295-f39161006ffe",
+                "parentId": "1df907d3-128c-462c-b8d7-2edef90fdd7e",
+                "value": "Node 560ca006",
+                "isDeleted": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "node",
+            "id": "6d0f4c2d-da12-4e0a-a2e7-c1f561a4ce80",
+            "parentId": "125419bb-78d2-412d-913b-faacb14a8693",
+            "value": "Node bb3affe3",
+            "isDeleted": false,
+            "children": []
+          },
+          {
+            "type": "node",
+            "id": "4d83a746-f052-45a0-afd1-eee47e1e2b1c",
+            "parentId": "125419bb-78d2-412d-913b-faacb14a8693",
+            "value": "Node b9f2afe6",
+            "isDeleted": false,
+            "children": [
+              {
+                "type": "node",
+                "id": "130577b1-879f-408c-b503-e54f0f6e70fa",
+                "parentId": "4d83a746-f052-45a0-afd1-eee47e1e2b1c",
+                "value": "Node 7a8965f6",
+                "isDeleted": false,
+                "children": []
+              },
+              {
+                "type": "node",
+                "id": "2bcc0fc6-617f-41a0-8b13-7882b68ea200",
+                "parentId": "4d83a746-f052-45a0-afd1-eee47e1e2b1c",
+                "value": "Node f8cb3285",
+                "isDeleted": false,
+                "children": []
+              },
+              {
+                "type": "node",
+                "id": "391225ca-a70e-4395-9ca5-10b2caddf972",
+                "parentId": "4d83a746-f052-45a0-afd1-eee47e1e2b1c",
+                "value": "Node 3db7d2a9",
+                "isDeleted": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "node",
+            "id": "eab6b241-59cf-470b-baff-141cd73891c0",
+            "parentId": "125419bb-78d2-412d-913b-faacb14a8693",
+            "value": "Node 026f81c1",
+            "isDeleted": false,
+            "children": []
+          },
+          {
+            "type": "node",
+            "id": "f375e9cf-7ba1-4177-8f85-945fb009d838",
+            "parentId": "125419bb-78d2-412d-913b-faacb14a8693",
+            "value": "Node c6a3103b",
+            "isDeleted": false,
+            "children": []
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "id": "be7f1186-0ba4-4a70-8c11-acd34ea99542",
+        "parentId": "6f8ed736-2671-46f4-b86e-f76114afa0bb",
+        "value": "Node 6ada9054",
+        "isDeleted": false,
+        "children": []
+      },
+      {
+        "type": "node",
+        "id": "65271034-b210-48b6-9253-193f7ce0cf93",
+        "parentId": "6f8ed736-2671-46f4-b86e-f76114afa0bb",
+        "value": "Node 59da928c",
+        "isDeleted": false,
+        "children": [
+          {
+            "type": "node",
+            "id": "6fba0faa-dae9-4619-87ed-605125bc3cf1",
+            "parentId": "65271034-b210-48b6-9253-193f7ce0cf93",
+            "value": "Node 56038c20",
+            "isDeleted": false,
+            "children": [
+              {
+                "type": "node",
+                "id": "eb509fdd-9844-4633-9dd1-905bed82c2fc",
+                "parentId": "6fba0faa-dae9-4619-87ed-605125bc3cf1",
+                "value": "Node 6dffdc22",
+                "isDeleted": false,
+                "children": []
+              },
+              {
+                "type": "node",
+                "id": "f24eebc5-feeb-4dd5-a876-7d25572fd55a",
+                "parentId": "6fba0faa-dae9-4619-87ed-605125bc3cf1",
+                "value": "Node e505ed57",
+                "isDeleted": false,
+                "children": [
+                  {
+                    "type": "node",
+                    "id": "21df8f5f-5608-472a-8c95-bd94c14720b5",
+                    "parentId": "f24eebc5-feeb-4dd5-a876-7d25572fd55a",
+                    "value": "Node 7e50c14b",
+                    "isDeleted": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "node",
+                "id": "d1140b3d-a53d-4364-b77c-c4727a05a179",
+                "parentId": "6fba0faa-dae9-4619-87ed-605125bc3cf1",
+                "value": "Node 77054089",
+                "isDeleted": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "node",
+            "id": "45b76545-19bc-41b1-8b88-1337ac2a6752",
+            "parentId": "65271034-b210-48b6-9253-193f7ce0cf93",
+            "value": "Node 6ba77e4a",
+            "isDeleted": false,
+            "children": [
+              {
+                "type": "node",
+                "id": "9a946576-634d-4d42-967e-7fa6fb091efd",
+                "parentId": "45b76545-19bc-41b1-8b88-1337ac2a6752",
+                "value": "Node ea8e09c7",
+                "isDeleted": false,
+                "children": [
+                  {
+                    "type": "node",
+                    "id": "5f2592cb-cfc1-4ffc-b57b-7446fd0598a1",
+                    "parentId": "9a946576-634d-4d42-967e-7fa6fb091efd",
+                    "value": "Node 88d554d3",
+                    "isDeleted": false,
+                    "children": [
+                      {
+                        "type": "node",
+                        "id": "b23f251f-1141-4506-9065-7d24d23cd40f",
+                        "parentId": "5f2592cb-cfc1-4ffc-b57b-7446fd0598a1",
+                        "value": "Node 1a65ed82",
+                        "isDeleted": false,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "type": "node",
+                    "id": "8cd19888-5c85-4878-a2d6-a8b75a123ecc",
+                    "parentId": "9a946576-634d-4d42-967e-7fa6fb091efd",
+                    "value": "Node c92b6026",
+                    "isDeleted": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "node",
+                "id": "f5349c7a-73c4-4254-9ed5-70d4c373b471",
+                "parentId": "45b76545-19bc-41b1-8b88-1337ac2a6752",
+                "value": "Node 191b5aab",
+                "isDeleted": false,
+                "children": [
+                  {
+                    "type": "node",
+                    "id": "a3191198-ec43-43ac-adf3-21c2152f8df6",
+                    "parentId": "f5349c7a-73c4-4254-9ed5-70d4c373b471",
+                    "value": "Node 26829695",
+                    "isDeleted": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "node",
+                "id": "f3cf1a7e-fccf-44c1-bccb-b5dd6b12363f",
+                "parentId": "45b76545-19bc-41b1-8b88-1337ac2a6752",
+                "value": "Node 25bba3b9",
+                "isDeleted": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "node",
+            "id": "e955b352-bc00-4964-b2db-879e4b781b93",
+            "parentId": "65271034-b210-48b6-9253-193f7ce0cf93",
+            "value": "Node 10dcb8d7",
+            "isDeleted": false,
+            "children": []
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "id": "e50a017e-b879-4d04-b043-5097c7f927cb",
+        "parentId": "6f8ed736-2671-46f4-b86e-f76114afa0bb",
+        "value": "Node cad46ad6",
+        "isDeleted": false,
+        "children": []
+      },
+      {
+        "type": "node",
+        "id": "d7a51006-7c3b-4f7e-9f78-407db7be99bd",
+        "parentId": "6f8ed736-2671-46f4-b86e-f76114afa0bb",
+        "value": "Node 8126d7c0",
+        "isDeleted": false,
+        "children": [
+          {
+            "type": "node",
+            "id": "63b65368-01ec-44ac-967a-9edc9782f711",
+            "parentId": "d7a51006-7c3b-4f7e-9f78-407db7be99bd",
+            "value": "Node dd1e0578",
+            "isDeleted": false,
+            "children": [
+              {
+                "type": "node",
+                "id": "cb78f486-206e-4697-be50-9880d43bb117",
+                "parentId": "63b65368-01ec-44ac-967a-9edc9782f711",
+                "value": "Node fe66bb72",
+                "isDeleted": false,
+                "children": []
+              },
+              {
+                "type": "node",
+                "id": "eac50f2f-41d9-4774-9f80-9c0b1e60f4e7",
+                "parentId": "63b65368-01ec-44ac-967a-9edc9782f711",
+                "value": "Node f6d7bd15",
+                "isDeleted": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "node",
+            "id": "bdc38747-caf4-475e-8074-9315e07fac2f",
+            "parentId": "d7a51006-7c3b-4f7e-9f78-407db7be99bd",
+            "value": "Node 995d519b",
+            "isDeleted": false,
+            "children": []
+          },
+          {
+            "type": "node",
+            "id": "735ef81f-ff97-44bb-ae7e-a068760e184a",
+            "parentId": "d7a51006-7c3b-4f7e-9f78-407db7be99bd",
+            "value": "Node 67423574",
+            "isDeleted": false,
+            "children": [
+              {
+                "type": "node",
+                "id": "e904c706-8d67-4e15-a62f-cab17b5f4620",
+                "parentId": "735ef81f-ff97-44bb-ae7e-a068760e184a",
+                "value": "Node ddbc723c",
+                "isDeleted": false,
+                "children": [
+                  {
+                    "type": "node",
+                    "id": "2e3c1e38-8988-4641-be22-1034bf30b15d",
+                    "parentId": "e904c706-8d67-4e15-a62f-cab17b5f4620",
+                    "value": "Node 897ee3d3",
+                    "isDeleted": false,
+                    "children": [
+                      {
+                        "type": "node",
+                        "id": "157cbe2b-2f95-4a96-a76a-9213c2502b6b",
+                        "parentId": "2e3c1e38-8988-4641-be22-1034bf30b15d",
+                        "value": "Node 277b184b",
+                        "isDeleted": false,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "node",
+                "id": "0f8475c0-1119-40ab-bd1e-d05c9a9a72e4",
+                "parentId": "735ef81f-ff97-44bb-ae7e-a068760e184a",
+                "value": "Node 88604fcd",
+                "isDeleted": false,
+                "children": []
+              },
+              {
+                "type": "node",
+                "id": "f56a388b-9803-478a-881f-d9a772a5239a",
+                "parentId": "735ef81f-ff97-44bb-ae7e-a068760e184a",
+                "value": "Node 4140d26c",
+                "isDeleted": false,
+                "children": []
+              },
+              {
+                "type": "node",
+                "id": "6083fc78-394f-44c3-bdf1-18340bf48566",
+                "parentId": "735ef81f-ff97-44bb-ae7e-a068760e184a",
+                "value": "Node 531de5bb",
+                "isDeleted": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "node",
+        "id": "29503539-3de2-4f5c-b29e-428fd515a8b8",
+        "parentId": "6f8ed736-2671-46f4-b86e-f76114afa0bb",
+        "value": "Node 9f1806c3",
+        "isDeleted": false,
+        "children": [
+          {
+            "type": "node",
+            "id": "5d461a5f-1c5e-4009-bbce-591e6f385103",
+            "parentId": "29503539-3de2-4f5c-b29e-428fd515a8b8",
+            "value": "Node 901c26cd",
+            "isDeleted": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
