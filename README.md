@@ -73,7 +73,7 @@ A **generation script** is included to produce the initial JSON database file (`
 
 - Located in the `Persistence` package.  
 - Generates **10 nodes by default** (small demo set).  
-- The repository currently includes a **pre-generated 1,000,000-node dataset** for performance testing.
+- The repository currently includes a **pre-generated 100** but you could use up to 1,000,000-node dataset for performance testing (or upgrade script is you want more numbers.
 
 **Default file path:**
 QSWTestTask/Resources/DBInitial.json
